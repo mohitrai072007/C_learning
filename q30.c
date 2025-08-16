@@ -4,6 +4,7 @@
 float circlearea( float radius);
 float rectanglearea (float l , float b);
 
+// mohit coding 
  int main() {
 float a =5.0;
 float b = 10.0;
